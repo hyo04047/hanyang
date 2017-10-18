@@ -1,0 +1,5 @@
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW4$./a.out input.txt
+Preorder:  54 27 13 1 44 37 89 71 64 92
+Inorder:   1 13 27 44 37 54 64 71 89 92
+Postorder: 1 13 37 44 27 64 71 92 89 54
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW4$

@@ -1,0 +1,22 @@
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW3$./a.out input1.txt
+init front = 0, rear = 0
+enqueue() = 0
+front = 0, rear = 1
+enqueue() = 1
+front = 0, rear = 2
+enqueue() = 2
+front = 0, rear = 3
+enqueue() = 3
+front = 0, rear = 4
+Queue is full
+
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW3$./a.out input2.txt
+init front = 0, rear = 0
+enqueue() = 0
+front = 0, rear = 1
+enqueue() = 1
+front = 0, rear = 2
+dequeue() = 0
+front = 2, rear = 2
+Queue is empty
+

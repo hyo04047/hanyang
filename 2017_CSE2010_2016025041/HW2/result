@@ -1,0 +1,19 @@
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW2$./hw2_2016025041 input.txt
+
+Insertion(5) Failed : cannot find the location to be inserted
+Deletion failed : element 9 is not in the list
+Could not find 3 in the list
+Key of the previous node of 7 is header.
+Key of the previous node of 2 is 7.
+key : 7 value : 3.140	key : 2 value : 3.140	key : 4 value : 3.140	
+
+u@hataeseong-ui-MacBook-Pro:~/Desktop/2017_CSE2010_2016025041/HW2$
+
+
+
+
+
+
+
+
+
